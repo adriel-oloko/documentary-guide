@@ -1,0 +1,916 @@
+SCENE 1
+Scene: Royal warship at her moorings before the first voyage, @VASA
+Emotion: Quiet expectation on the morning of a disaster
+Action: The ship waits at her moorings
+Movement: Harbour water moving slowly against the hull, pennants lifting in a light breeze
+Background: Wooden quays and sheds, moored small craft, the town rising behind
+Camera: Wide from the quay, very slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 2
+Scene: Departure under sail with hawsers coming away, @VASA
+Emotion: The moment of departure, no sense of danger
+Action: The ship gathers way and leaves the quay
+Movement: Sails filling slowly, bow wave opening, gulls crossing the frame
+Background: Moored craft and quay posts sliding past in the foreground
+Camera: Medium wide abeam, slow tracking with the hull
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 3
+Scene: Painted stern carvings in close detail, @VASA
+Emotion: Pride rendered as decoration
+Action: The stern carving holds the frame
+Movement: Light shifting across the gilding, one rope swinging across the letters
+Background: Nothing but the painted stern and the shipwrights marks
+Camera: Tight medium close, slow lateral drift
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 4
+Scene: The Baltic approaches from a low headland
+Emotion: The water as a highway worth fighting for
+Action: The sea and islands hold still
+Movement: Low cloud moving over the outer islands
+Background: Rock, heather, wet stone, open water beyond
+Camera: Wide landscape, locked off
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 5
+Scene: Two complete gun decks seen along the hull, @VASA
+Emotion: Armament as the measure of the ship
+Action: The armed hull fills the frame
+Movement: Water slapping along the hull, one port lid moving
+Background: Open harbour water and a low shore behind
+Camera: Long side on, very slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 6
+Scene: Stern gallery three storeys high, @VASA
+Emotion: Ostentation at the scale of a building
+Action: The stern rises above the viewer
+Movement: Water moving against the counter, ropes lifting
+Background: Harbour water and the quay behind
+Camera: Low angle, slow tilt up the stern
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 7
+Scene: Ship seen from the shore with colour visible, @VASA
+Emotion: Colour as a statement of wealth
+Action: The ship rides at anchor
+Movement: Ripples across the frame, heat shimmer at the waterline
+Background: Shore stones and a low beach in the foreground
+Camera: Wide from the shore, locked off
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 8
+Scene: The ship alone on the water before anything happens, @VASA
+Emotion: The most powerful thing afloat, seconds before it ends
+Action: The ship holds her course
+Movement: Sails drawing steadily, water sliding past the hull, pennant streaming
+Background: Open water and low cloud on the horizon
+Camera: Wide from the water level, very slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 9
+Scene: Gust crossing the harbour water
+Emotion: The instant the weather turns
+Action: Wind crosses the water toward the ship
+Movement: Ripples accelerating, rope ends lifting, spray breaking
+Background: Harbour water and the far shore darkening
+Camera: Low wide over the deck, slow forward push
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 10
+Scene: The hull heeling hard to larboard, @VASA
+Emotion: A hull past the point of recovery
+Action: The ship continues to heel
+Movement: The hull rotating further, water climbing the low side, loose gear sliding
+Background: Harbour water and quayside at an angle behind
+Camera: Medium wide abreast, slow tilt with the deck
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 11
+Scene: The ship hanging at the angle of no return, @VASA
+Emotion: The pause before the water goes in
+Action: The ship hangs at her angle
+Movement: Water lapping at the lowest ports, sails still drawing
+Background: Harbour water and the town behind, canted
+Camera: Side on medium, locked off
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 12
+Scene: Sailors at the rail seen from behind, @VASA
+Emotion: Men understanding what is about to happen
+Action: The figures brace against the deck angle
+Movement: Deck canting further, clothing and rope ends lifting
+Background: The canted deck and the harbour beyond the rail
+Camera: Medium from behind, slow handheld drift
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 13
+Scene: Lower gun ports open at the waterline, @VASA
+Emotion: The exact point of failure
+Action: The open ports meet the water
+Movement: Sick water sluicing through the open ports
+Background: The hull planking and the harbour surface at the sill
+Camera: Tight medium close, slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 14
+Scene: Water entering through thirty openings, @VASA
+Emotion: The ship taking water faster than she can answer
+Action: The deck floods through the ports
+Movement: Water spreading fast across the deck, loose gear floating
+Background: Gun deck interior and the row of open ports
+Camera: Low wide along the deck, slow forward track
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 15
+Scene: The hull rolling onto her side and going down, @VASA
+Emotion: Loss happening in plain sight of a town
+Action: The hull rolls and settles
+Movement: The hull rotating under, sails collapsing into the water
+Background: Harbour water and the quayside crowd behind
+Camera: Wide from the quay, very slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 16
+Scene: Masts standing out of the water, @VASA
+Emotion: The wreck marked by its own rigging
+Action: The masts hold above the surface
+Movement: Water moving gently around the masts, a boat crossing
+Background: Calm harbour and the town beyond
+Camera: Wide across the water, locked off
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 17
+Scene: The tally of the dead
+Emotion: A number that is also a list of people
+Action: The figures stand in a line at the water
+Movement: Nothing moves except the water
+Background: Quay edge and dark water beyond
+Camera: Distant wide from behind, locked off
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 18
+Scene: The wreck site in the present, quiet water
+Emotion: The famous part is not the point
+Action: The water holds nothing on the surface
+Movement: Gentle chop across the frame
+Background: Low island shore and a buoy
+Camera: Wide from a low boat, very slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 19
+Scene: A poor northern kingdom under an ambitious throne, @CROWN COMMISSIONER
+Emotion: Ambition looking out over a poor country
+Action: The official studies the harbour below
+Movement: Curtain edge moving at the window
+Background: Timber town roofs and marshalling yards below
+Camera: Medium from behind, very slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 20
+Scene: An army on several fronts at once
+Emotion: A poor country stretched in every direction
+Action: The column moves along the road
+Movement: Frozen breath, cart wheels, low cloud
+Background: Bare trees, frozen fields, low hills
+Camera: Distant wide from above, locked off
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 21
+Scene: Grain and iron moving as cargo on the water, @HARBOUR SLOOP
+Emotion: The water as a working highway
+Action: The sloop works out of the river
+Movement: Sail filling, wake opening, sacks shifting
+Background: River mouth, low banks, reeds
+Camera: Medium wide abeam, slow tracking
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 22
+Scene: A waterway that decides wars
+Emotion: Whoever holds this holds the war
+Action: The passage runs with the current
+Movement: Current accelerating between the headlands, spray lifted from the skerries
+Background: Rock, scrub, low cloud
+Camera: Wide from a height, slow forward push
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 23
+Scene: Rival flags along the southern shore
+Emotion: Contested ground on both shores
+Action: The anchorage holds at distance
+Movement: Water moving at the frame edge
+Background: Sand, scrub, a low fortification
+Camera: Wide from the water, locked off
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 24
+Scene: Foreign merchantmen trading through the strait, @HARBOUR SLOOP
+Emotion: Trade that does not ask permission
+Action: The merchant hulls pass through
+Movement: Sails drawing, wake trails, sloop pitching
+Background: Open water and distant headlands
+Camera: Wide across the strait, slow lateral track
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 25
+Scene: One hull that makes every other obsolete, @VASA
+Emotion: A single hull as an argument
+Action: The hull holds the frame
+Movement: Water moving along the hull, one port lid swinging
+Background: Open water and empty sky
+Camera: Low wide from the water, very slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 26
+Scene: The order for an enormous ship, @CROWN COMMISSIONER
+Emotion: The order that creates the problem
+Action: The dispatch is held and read again
+Movement: Candle flame leaning, paper edge moving
+Background: Panelling, a window, the yard beyond
+Camera: Medium three quarter, slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 27
+Scene: The shipwright and his drawing, @MASTER SHIPWRIGHT
+Emotion: A professional at the limit of his authority
+Action: The shipwright marks the line
+Movement: Chalk dust drifting, cord swinging
+Background: Mould loft floor, timber posts, chalk lines
+Camera: Medium wide from above, very slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 28
+Scene: Armament doubled on paper, @MASTER SHIPWRIGHT
+Emotion: A specification changing under the builder
+Action: The sheet is held against the lines
+Movement: Paper lifting at the edge, chalk dust
+Background: Loft floor and timber posts behind
+Camera: Tight medium over the sheet, locked off
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 29
+Scene: A second full deck ordered, @MASTER SHIPWRIGHT
+Emotion: Weight added above the waterline on an order
+Action: The new ports stand chalked on the floor
+Movement: Chalk dust, cloth moving as he rises
+Background: Loft floor, timber frame, high window
+Camera: Medium from the side, slow tilt up
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 30
+Scene: A fixed width and an impossible requirement, @MASTER SHIPWRIGHT
+Emotion: The geometry that cannot be argued with
+Action: The hand rests on the beam line
+Movement: Chalk dust, lamp flame near the frame edge
+Background: Mould loft floor and a lantern
+Camera: High angle tight, very slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 31
+Scene: Weight high on a narrow beam
+Emotion: Stability lost by design
+Action: The outline holds the floor
+Movement: Chalk dust drifting, lamp flame
+Background: Loft floor and timber posts
+Camera: High angle wide, locked off
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 32
+Scene: The shipwright who did not live to see her float, @MASTER SHIPWRIGHT
+Emotion: Exhaustion and foreboding
+Action: The figure sits beside the lines
+Movement: Cloth at the shoulder moving, lamp flame
+Background: Loft floor, timber frame, sawdust
+Camera: Medium from the side, very slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 33
+Scene: Passing the work to an assistant, @MASTER SHIPWRIGHT
+Emotion: Work handed on under a bad specification
+Action: The cord passes between them
+Movement: Cord swinging, dust drifting
+Background: Loft floor and timber posts
+Camera: Medium wide from behind, locked off
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 34
+Scene: Too much weight above the waterline, @VASA
+Emotion: A hull overloaded where it matters most
+Action: The hull sits low
+Movement: Water working along the waterline
+Background: Open harbour water
+Camera: Long side on, slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 35
+Scene: Wide but not wide enough, @VASA
+Emotion: The arithmetic of a bad hull
+Action: The hull holds head on
+Movement: Water breaking against the stem, one port lid working
+Background: Open water and low cloud
+Camera: Head on low angle, very slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 36
+Scene: Carpenters who knew what a stable ship looks like, @YARD LABOURER
+Emotion: Men who know and are not asked
+Action: The hands rest on the planking
+Movement: Sawdust falling, rope end swinging
+Background: Slip timbers, staging, stacked plank
+Camera: Medium wide from the slip, slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 37
+Scene: A hull that was not one, @VASA
+Emotion: A ship that will not stand up
+Action: The hull stands on the slip
+Movement: Staging boards moving, a rope hauled up
+Background: Yard buildings, timber stacks, mud
+Camera: Distant wide from the yard, very slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 38
+Scene: The heaviest guns carried low, @VASA
+Emotion: The guns that will drown the ship
+Action: The guns stand at their ports
+Movement: Water moving at the port sills, tackle swinging
+Background: Gun deck interior, deck beams overhead
+Camera: Low wide along the deck, slow forward track
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 39
+Scene: A few degrees of heel is all it takes, @VASA
+Emotion: The margin measured in centimetres
+Action: The water waits at the sill
+Movement: Surface rising and falling at the sill
+Background: Hull planking and open water
+Camera: Tight medium at the sill, locked off
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 40
+Scene: The same weight again carried higher, @VASA
+Emotion: Weight stacked where it does most harm
+Action: The upper deck stands above the lower
+Movement: Water along the hull, rigging movement
+Background: Open harbour water
+Camera: Medium wide from the water, slow tilt up
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 41
+Scene: A yard running at speed under a war, @YARD LABOURER
+Emotion: A machine of labour on a deadline
+Action: The gangs haul timber along the slip
+Movement: Men hauling, sawdust, ropes running, saws moving
+Background: Slip timbers, sheds, stacked timber, mud
+Camera: High wide from the staging, slow lateral track
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 42
+Scene: Hundreds of men on another nation's schedule, @YARD LABOURER
+Emotion: A workforce that cannot speak with one voice
+Action: The staging works continue
+Movement: Tools passing, ropes hauled, shavings falling
+Background: Staging, hull planking, timber frame
+Camera: Medium wide along the staging, slow tracking
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 43
+Scene: Timber cut long before the sum was done
+Emotion: Material decided before the calculation
+Action: The stack stands against the wall
+Movement: Dust in the light shaft, one plank edge lifting
+Background: Shed interior, earthen floor, stacked timber
+Camera: Medium wide along the stack, slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 44
+Scene: Built correctly to a plan that was wrong, @VASA
+Emotion: Competence applied to a bad specification
+Action: The finished ship floats at her berth
+Movement: Water moving along the hull, rigging still
+Background: Quay, bollards, moored craft, town behind
+Camera: Wide from the quay, very slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 45
+Scene: Nobody in the yard could say so, @YARD LABOURER
+Emotion: A judgement that has nowhere to go
+Action: The figure looks up at the hull
+Movement: Nothing moves except the water
+Background: Slip timbers, staging, the hull towering above
+Camera: Distant wide from behind, locked off
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 46
+Scene: The test before the launch, @VASA
+Emotion: The strangest test in the story about to start
+Action: The hull waits unrigged
+Movement: Water moving at the quay, breath in the cold air
+Background: Quay, ice at the edges, town in winter
+Camera: Medium wide from the quay, slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 47
+Scene: Thirty men sent running side to side, @YARD LABOURER
+Emotion: A ship being measured by running men
+Action: The line of men runs to larboard
+Movement: Men running, deck canting as they arrive, coats flying
+Background: Bare deck, quay and winter town beyond
+Camera: Medium wide across the bare deck, slow tracking
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 48
+Scene: The hull rolling further each pass, @VASA
+Emotion: A hull telling the truth out loud
+Action: The hull rolls further with each pass
+Movement: Hull rotating, water climbing, staging creaking
+Background: Quay, ice, winter town
+Camera: Side on medium from the quay, slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 49
+Scene: Three runs and she is leaning too far, @VASA
+Emotion: The test exceeding what anyone will admit
+Action: The hull holds at a hard angle
+Movement: Water climbing, men still running, ropes creaking
+Background: Quay edge and winter town, canted
+Camera: Low medium from the quay, slow tilt
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 50
+Scene: The officer calls a halt, @CROWN COMMISSIONER
+Emotion: A decision to stop rather than to report
+Action: The raised hand stops the line
+Movement: Coat moving in the cold wind, breath
+Background: Quay stones, ice, moored hull behind
+Camera: Medium from behind, very slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 51
+Scene: A ship known to be dangerously tender, @VASA
+Emotion: Everyone present now knows
+Action: The empty deck holds still
+Movement: Water at the quay edge, one rope swinging
+Background: Quay, ice, winter town, moored hull
+Camera: Wide from the quay, locked off
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 52
+Scene: Nothing written down, @CROWN COMMISSIONER
+Emotion: The absence of a record
+Action: The blank page holds the frame
+Movement: Curtain movement at the window, quill motionless
+Background: Office interior, panelling, window
+Camera: Medium over the empty page, very slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 53
+Scene: Seven months later loaded and sent, @VASA
+Emotion: A decision made by doing nothing
+Action: The ship takes her stores aboard
+Movement: Hoists lifting, barrels swinging, lines running
+Background: Quay, cranes, moored craft, vessels behind
+Camera: Medium wide from the quay, slow tracking
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 54
+Scene: The admiral ashore that morning, @CROWN COMMISSIONER
+Emotion: The man who was not aboard
+Action: The figure climbs the steps away from the water
+Movement: Coat tail lifting, one glance over the shoulder
+Background: Quay steps, town wall above, harbour below
+Camera: Medium from behind, very slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 55
+Scene: The ship leaves in a light breeze, @VASA
+Emotion: A routine departure with nothing to fear in it
+Action: The ship draws away from the quay
+Movement: Hawsers splashing, sails filling slowly, water opening at the bow
+Background: Quay, moored craft, harbour water
+Camera: Wide from the quay, slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 56
+Scene: Boats alongside within minutes, @HARBOUR SLOOP
+Emotion: The shore was always within reach
+Action: The boats converge on the masts
+Movement: Oars biting, water breaking at the bows, boats crossing each others wakes
+Background: Low island shore and the masts of the sunken hull
+Camera: Medium wide across the water, slow lateral track
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 57
+Scene: Survivors hauled from a swimable distance, @HARBOUR SLOOP
+Emotion: Rescue close enough to be humiliating
+Action: The figures are hauled aboard
+Movement: Boat rocking hard, water streaming, oars shipped
+Background: Harbour water and the island shore
+Camera: Medium from behind at a distance, locked off
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 58
+Scene: Trapped below when she rolled, @VASA
+Emotion: Some never got out
+Action: The ports hold in the gloom
+Movement: Silt drifting through the openings
+Background: Sunken hull planking and open dark portways
+Camera: Low wide from below outside the hull, very slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 59
+Scene: Families aboard for a short trip on a calm day, @VASA
+Emotion: Ordinary people on a routine passage
+Action: The group stands at the rail
+Movement: Cloth moving, a child lifted to see over the rail
+Background: The rail, harbour water and the quay behind
+Camera: Distant medium from behind, very slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 60
+Scene: An inquest held inside the palace, @CROWN COMMISSIONER
+Emotion: A process already pointed at an outcome
+Action: The chamber sits in session
+Movement: Papers lifting, candle flames, cloth moving as someone shifts
+Background: Panelling, tall windows, the table
+Camera: Wide from the far end of the chamber, slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 61
+Scene: The court hears that the ship failed her own test, @CROWN COMMISSIONER
+Emotion: Evidence received and not acted on
+Action: The witness holds the paper
+Movement: Paper edge moving, cloth shifting
+Background: Panelled chamber, table, seal box
+Camera: Medium over the table from behind the witness, locked off
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 62
+Scene: Built to the crown's own specification, @CROWN COMMISSIONER
+Emotion: The document that explains everything
+Action: The dispatches lie on the table
+Movement: Candle flame, paper corner lifting
+Background: Table, panelling, papers in shadow
+Camera: Tight medium on the papers and seal, very slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 63
+Scene: No one executed and no one fined, @MASTER SHIPWRIGHT
+Emotion: The absence of any consequence
+Action: The empty chamber holds still
+Movement: Curtain at the window moving, dust in the light
+Background: Panelled chamber, empty table, chair
+Camera: Medium wide across the empty chamber, slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 64
+Scene: A court with no interest in the answer, @CROWN COMMISSIONER
+Emotion: A record closed deliberately
+Action: The hand rests on the closed book
+Movement: Nothing moves except candle flame
+Background: Table, closed record book, panelled wall
+Camera: Medium from behind, very slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 65
+Scene: The most powerful man in the room ordered it, @CROWN COMMISSIONER
+Emotion: The person the record was arranged to spare
+Action: The chair stands empty at the head
+Movement: Curtain movement behind, candle flame
+Background: Panelled chamber, tall windows, long table
+Camera: Medium wide from the foot of the table, slow tilt up
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 66
+Scene: Paperwork arranged so it could not be said, @CROWN COMMISSIONER
+Emotion: The record being closed and filed
+Action: The hands tie the bundle
+Movement: Tape drawn tight, wax pressed, flame leaning
+Background: Table edge, papers, seal and lamp
+Camera: Tight medium on the hands, very slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 67
+Scene: Then she was forgotten, @VASA
+Emotion: A disaster sliding into a footnote
+Action: The harbour empties for the night
+Movement: Water moving at the frame edge, one lantern swinging
+Background: Shore, town lights, empty water
+Camera: Wide from the shore, locked off
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 68
+Scene: Her masts cut away as a hazard, @VASA
+Emotion: The last visible trace removed for convenience
+Action: The mast comes away and falls
+Movement: Saw teeth moving, rope running, mast toppling into water, spray rising
+Background: Masts of other moored craft and the harbour beyond
+Camera: Medium wide from the water, slow tracking
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 69
+Scene: Three centuries as a note in a survey
+Emotion: A wreck reduced to a mark on a chart
+Action: The chart holds the frame
+Movement: Lamp flame leaning, paper edge lifting
+Background: Board, wall, lamp, dividers
+Camera: Medium over the board, very slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 70
+Scene: Three centuries is a matter of chemistry
+Emotion: The accident that preserved her
+Action: The water holds the frame
+Movement: Silt drifting, light shifting through the surface
+Background: Open water, no seabed visible
+Camera: Tight close on the water, very slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 71
+Scene: Cold brackish water with no shipworm
+Emotion: A sea that cannot digest wood
+Action: The seabed holds still
+Movement: Silt lifting and settling, light rippling overhead
+Background: Mud, shell, small stones, deeper dark beyond
+Camera: Tight low angle along the seabed, very slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 72
+Scene: Shipworm eating hulls in every other sea
+Emotion: What happens to every other wreck in the world
+Action: The eaten hull holds the frame
+Movement: Water movement, particles drifting, a plank edge crumbling
+Background: Clear warm water and a bright seabed below
+Camera: Tight medium on the eaten planking, slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 73
+Scene: Any other seabed in the world
+Emotion: The contrast that explains the survival
+Action: The timber fragments lie on the sand
+Movement: Water movement against the fragments
+Background: Pale sand, bright water, deep blue beyond
+Camera: Wide low across the sand, locked off
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 74
+Scene: Mud and low salinity on an even keel, @VASA
+Emotion: A whole ship preserved by where she fell
+Action: The hull lies upright in the silt
+Movement: Silt settling, faint light moving on the upper works
+Background: Mud plain, the hull, deeper dark beyond
+Camera: High wide from behind the hull, very slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 75
+Scene: An amateur researcher hunting for years
+Emotion: Years of a hunch worked patiently
+Action: The launch works slowly across the frame
+Movement: Water at the hull, line paying out, figure shifting
+Background: Open harbour water and the town behind
+Camera: Medium wide from a second boat, slow lateral track
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 76
+Scene: Located in August nineteen fifty six
+Emotion: The moment three centuries end
+Action: The grapple breaks the surface with wood in it
+Movement: Water streaming off the grapple, splinters dripping, line taut
+Background: Open water and a boat gunwale at the frame edge
+Camera: Tight medium on the grapple, very slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 77
+Scene: The island where a young man tested a line
+Emotion: The place the hunch came from
+Action: The shore holds still
+Movement: Reeds moving, water lapping the stones
+Background: Granite, reeds, shallow water, low sky
+Camera: Wide from the water, locked off
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 78
+Scene: Probing the harbour bed with a core sampler
+Emotion: The slow mechanical work of a search
+Action: The sampler drives into the mud
+Movement: Rod sinking, mud clouding, water closing over
+Background: Muddy water, boat gunwale above
+Camera: Tight medium on the sampler at the waterline, slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 79
+Scene: A grappling hook and a hunch
+Emotion: A hunch drawn to scale
+Action: The chart lies on the deck
+Movement: Chart corner lifting, water glinting nearby
+Background: Boat deck, lines, a bucket, open water beyond
+Camera: Medium over the chart on the deck, very slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 80
+Scene: A raising that took years and nearly failed
+Emotion: An operation that could still fail at any hour
+Action: The pontoons hold station over the site
+Movement: Pontoons rising and falling, hawsers tightening
+Background: Working craft, open water, low shore
+Camera: Wide from the water, slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 81
+Scene: Tunnelling under the hull with water jets
+Emotion: The work nobody had done before
+Action: The jet cuts a tunnel under the hull
+Movement: Silt boiling out, hose writhing, bubbles rising
+Background: Buried hull planking, mud, guide cable
+Camera: Tight medium on the nozzle and the keel, slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 82
+Scene: Lifting her a few metres at a time, @VASA
+Emotion: A ship coming up in stages over years
+Action: The hull rises toward the surface
+Movement: Water pouring off the decks, weeds trailing, pontoons settling
+Background: Open harbour water and working craft
+Camera: Medium wide on the hull at the surface, very slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 83
+Scene: Floated into a dry dock in nineteen sixty one, @VASA
+Emotion: A ship back inside a harbour she never left
+Action: The hull enters the dock
+Movement: Water slapping between the hull and the wall, lines running, men walking the wall
+Background: Dock walls, gates, the town above
+Camera: Wide from the dock wall, slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 84
+Scene: No precedent for recovering a hull like this, @MASTER SHIPWRIGHT
+Emotion: Professionals facing something with no precedent
+Action: The group studies the hull
+Movement: Nothing moves but dust in the light
+Background: Shed interior, cradle, staging, the hull
+Camera: Wide from the far end of the shed, very slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 85
+Scene: Cracking and shrinking as she dried, @VASA
+Emotion: Timber failing at the very moment it is saved
+Action: The plank surface opens in fine cracks
+Movement: Cracks widening slowly, moisture beading and running
+Background: The hull planking and the cradle below
+Camera: Tight medium on the plank face, very slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 86
+Scene: Conserving her has never ended, and her crew were found with her, @VASA
+Emotion: A ship that is still being repaired
+Action: The hull stands on the cradle
+Movement: Mist drifting across the timbers, the hull settling imperceptibly
+Background: The museum hall, the cradle, the ship
+Camera: Wide from the gallery level, very slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 87
+Scene: What came up with the ship
+Emotion: Ordinary lives recovered from the mud
+Action: The finds lie on the table
+Movement: Dust in the light, one bead of water running
+Background: Table surface and a conservation tray edge
+Camera: High angle over the finds, slow lateral track
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 88
+Scene: Bones that answered what the paperwork did not
+Emotion: The record the court did not take
+Action: The tray holds the frame
+Movement: Nothing moves
+Background: Bench surface, tray, rule, cabinet behind
+Camera: Medium over the tray, very slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 89
+Scene: The hull on a cradle under controlled humidity, @VASA
+Emotion: A ship held up permanently
+Action: The cradle holds the hull
+Movement: Air movement from the climate system, dust drifting
+Background: Hall floor, cradle timber, the hull above
+Camera: Low angle looking up the hull from below, slow tilt up
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 90
+Scene: A treatment that took close to two decades, @MASTER SHIPWRIGHT
+Emotion: Two decades of patient chemistry
+Action: The pipework holds the hall
+Movement: Fine mist drifting, one valve handle at rest
+Background: Industrial hall, tanks, the hull beyond
+Camera: Wide across the hall, very slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 91
+Scene: Years of slow settling and support, @VASA
+Emotion: A structure still taking up its own weight
+Action: The supports carry the hull
+Movement: Nothing moves perceptibly
+Background: Gallery rail, the hull, the ceiling
+Camera: Medium wide from the gallery, locked off
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 92
+Scene: Less like a wreck than a building under repair, @VASA
+Emotion: A ship that looks like a building site
+Action: The hall holds the hull
+Movement: Air handling movement, faint dust
+Background: Hall floor, towers, the long hull, the far wall
+Camera: Long wide down the hall, very slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 93
+Scene: A building under repair that has never closed
+Emotion: Permanent, unfinished repair on view
+Action: The hall holds the frame
+Movement: Nothing moves
+Background: Gallery rail, the hall below, the hull and towers
+Camera: High wide from the gallery rail, slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 94
+Scene: Visitors passing the gun decks at eye level, @VASA
+Emotion: A disaster at eye level for anyone who looks
+Action: The visitors pass the open gun decks
+Movement: Visitors walking steadily, coats moving, hands on the rail
+Background: Gallery rail, the gun deck, the hull beyond
+Camera: Medium from behind on the gallery, slow tracking
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 95
+Scene: The ports that drowned her, cut low and still open, @VASA
+Emotion: The exact failure on permanent display
+Action: The open ports hold the frame
+Movement: Nothing moves
+Background: Conserved planking, open ports, dark interior
+Camera: Tight medium on the ports from the gallery, very slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 96
+Scene: A control case for the rules of stability, @MASTER SHIPWRIGHT
+Emotion: The lesson turned into a line on a drawing
+Action: The board holds the frame
+Movement: Paper corner lifting, dust in the light
+Background: Board, rule, dividers, plain wall
+Camera: Medium over the board, very slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 97
+Scene: A complete example of the failure, @VASA
+Emotion: The failure in section, on show
+Action: The midship section holds the frame
+Movement: Faint air movement, dust
+Background: Gallery rail, the hull section, the hall beyond
+Camera: Medium across the midship section, slow lateral track
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 98
+Scene: Gun decks open and ballast in the bilge, @VASA
+Emotion: The weight that was never enough, still where it was left
+Action: The ballast lies where it was found
+Movement: Nothing moves
+Background: Deck beams, frames, ballast stones, the bilge
+Camera: High angle looking down into the bilge, slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 99
+Scene: A smaller and more portable lesson, @MASTER SHIPWRIGHT
+Emotion: A room where the answer was available
+Action: The loft floor holds still
+Movement: Lamp flame leaning, chalk dust settling
+Background: Loft floor, chalk lines, timber posts, one lamp
+Camera: Wide from the far wall, very slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 100
+Scene: The information was in the room, @MASTER SHIPWRIGHT
+Emotion: Knowledge sitting in plain view
+Action: The lamp lights the drawing
+Movement: Flame leaning, dust crossing the light
+Background: Loft floor, chalked lines, lamp, dividers
+Camera: High angle tight on the chalked section, very slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+SCENE 101
+Scene: Set aside, because the man who needed to hear it had caused it, @VASA
+Emotion: The lesson that was always available and never taken
+Action: The hull stands alone in the dark hall
+Movement: Lamp light shifting slightly on the planking, dust drifting through the beam
+Background: Dark hall, gallery rail, the long hull, deep shadow
+Camera: Wide down the dark hall, very slow push in
+Style: Photorealistic historical documentary style, practical available light, authentic weathered textures, muted earth tone palette, fine organic film grain, no gloss, no digital sheen.
+
+---
+ANCHOR TAGS
+[MASTER SHIPWRIGHT] = @
+[CROWN COMMISSIONER] = @
+[YARD LABOURER] = @
+[VASA] = @
+[HARBOUR SLOOP] = @

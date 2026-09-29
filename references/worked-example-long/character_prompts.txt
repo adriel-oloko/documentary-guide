@@ -1,0 +1,43 @@
+MASTER SHIPWRIGHT
+**📐 Prompt 1, Man, sixty, Dutch born master shipwright in a Swedish royal yard**
+✨ Look: a man who has measured hulls all his life and has been told to measure this one wrong
+
+```text
+A full-body photorealistic character turnaround reference, rendered as man, about sixty years old, with believable human proportions and natural skin texture, ruddy weathered skin, deep lines at the eyes and mouth, grey stubble, broad shouldered with heavy forearms and callused hands. Wearing a coarse dark wool doublet, a linen shirt with an open collar, dark breeches, wool stockings, scuffed leather shoes, and a leather apron with a folding rule and a set of brass dividers in the pocket. A marking cord is coiled over one shoulder. The surface is real weathered skin and worn cloth, with no gloss and no digital sheen. Pose: standing facing forward, dividers in the right hand. Expression: heavy patience. Front facing and slightly angled views. Isolated on a plain mid grey backdrop, soft overcast north light, soft contact shadow under the feet, centred composition, historically accurate 1620s northern European materials, no environment, no props other than the cord and dividers, no text, no extra characters.
+```
+
+CROWN COMMISSIONER
+**🪶 Prompt 1, Man, forty five, crown commissioner overseeing the royal yard**
+✨ Look: a man whose hands have never held a tool and who signs the specification
+
+```text
+A full-body photorealistic character turnaround reference, rendered as man, about forty five years old, with believable human proportions and natural skin texture, fair skin, a neatly trimmed moustache, precise upright posture, and hands soft and unmarked. Wearing a dark high quality woollen doublet with a lined cape, an expensive broad brimmed hat, pale leather gloves held in one hand, tall leather boots, a heavy signet ring, and a sealed dispatch case carried on a strap. The surface is real fine cloth and worn leather, with no gloss and no digital sheen. Pose: standing facing forward. Expression: flat impatience. Front facing and slightly angled views. Isolated on a plain mid grey backdrop, soft overcast light, soft contact shadow under the feet, centred composition, historically accurate 1620s northern European materials, no environment, no text, no extra characters.
+```
+
+YARD LABOURER
+**🪵 Prompt 1, Man, twenty five, Stockholm yard hand on the ballast and the stowing**
+✨ Look: the man who carried every stone that should have kept her upright
+
+```text
+A full-body photorealistic character turnaround reference, rendered as man, about twenty five years old, with believable human proportions and natural skin texture, weather beaten pale skin, sandy hair tied back, wiry build, rope burns across both palms. Wearing a torn flax shirt, a sleeveless leather jerkin, rough trousers cut above the ankle, wooden clogs, and a barrow hook at the belt. The surface is real worn cloth and coarse leather, with no gloss and no digital sheen. Pose: standing facing forward, weight on the back foot as if carrying a load. Expression: set effort. Front facing and slightly angled views. Isolated on a plain mid grey backdrop, soft overcast light, soft contact shadow under the feet, centred composition, historically accurate 1620s northern European materials, no environment, no props, no text, no extra characters.
+```
+
+VASA
+**⛵ Prompt 1, Vessel, 1628, Swedish two decked royal warship**
+✨ Look: the most powerful ship in the Baltic, and the reason she could not stay upright
+
+```text
+A four view ship reference plate of a Swedish royal warship, 1628, with believable hull proportions and worn surfaces, built from tarred oak planking on a carvel hull, two complete gun decks with the lower tier of square ports cut very close above the waterline and the upper tier well above, sixty four guns, a bluff bow with a short beakhead and no figurehead, a very high full stern with three stacked galleries of carved and painted figures in red gold and blue, an open quarterdeck and poop, three masts with a square rig on the fore and main and a lateen on the mizzen, a short bowsprit, no legible lettering or name on the hull anywhere. Tarred dark oak with paint worn and streaked on the upperworks, fresh gilding on the stern, ironwork rusted, deck clutter of gun tackle and coiled rope. The surface is real weathered timber and flaking paint, with no gloss and no digital sheen. Four views: bow three quarter, full side showing both gun decks and the low waterline, stern three quarter showing the galleries, and a detail of the lower gun ports at the waterline. Isolated on a plain mid grey backdrop, soft overcast light, soft contact shadow under the hull, centred composition, historically accurate 1620s northern European materials, no environment, no props, no text, no extra characters.
+```
+
+```text
+A four view boat reference plate of an open ship's long boat, 1628, with believable proportions and worn surfaces, clinker planking with visible overlapping strakes, six oars shipped or stowed, a single small mast with a furled sail, no deck, a tarred hull with the paint worn off the gunwale, iron rowlocks and a stern sheet. The surface is real weathered timber and hardened tar, with no gloss and no digital sheen. Four views: bow three quarter, full side, stern three quarter, and a detail of the rowlocks and gunwale wear. Isolated on a plain mid grey backdrop, soft overcast light, soft contact shadow under the hull, centred composition, historically accurate 1620s northern European materials, no environment, no props, no text, no extra characters.
+```
+
+HARBOUR SLOOP
+**🎏 Prompt 1, Vessel, 1628, small single masted Stockholm harbour working boat**
+✨ Look: the ordinary working boat of the period, present when the warship went down
+
+```text
+A four view boat reference plate of a small single masted harbour working boat, 1628, with believable proportions and worn surfaces, carvel planking, one loose footed sail on a short mast, a partial deck forward, a coil of line and a wooden bucket aboard, tarred and patched throughout with mismatched plank repairs. No legible lettering anywhere on the hull. The surface is real weathered timber and hardened tar, with no gloss and no digital sheen. Four views: bow three quarter, full side, stern three quarter, and a detail of the gunwale and the line coil. Isolated on a plain mid grey backdrop, soft overcast light, soft contact shadow under the hull, centred composition, historically accurate 1620s northern European materials, no environment, no props, no text, no extra characters.
+```

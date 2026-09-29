@@ -1,0 +1,39 @@
+CHER AMI
+**🐦 Prompt 1, Female, adult homing pigeon, wearing a thin leather collar with a small brass tag**
+✨ Look: a scarred homing pigeon with a missing eye and a steadfast gaze
+
+```text
+A full-body soft cinematic Pixar animation style pigeon, designed as an adult homing pigeon, with smooth rounded shapes, soft smooth fur shading, iridescent gray and blue feathers with a white patch on the breast, missing right eye, a healed scar across the breast, sleek streamlined head with a small cere, slender body, and a charming, feature animation personality. Wearing a simple restraint: a thin leather collar with a small brass tag, no other clothing. The character has smooth surfaces with subtle imperfections, and a soft tactile finish. Pose: standing facing forward. Expression: steady, unwavering. Front-facing or slightly angled character turnaround reference look. Isolated on a pure white background, warm studio lighting, soft shadow under feet, centered composition, highly detailed, polished feature animation character model, clean character design, no environment, no props, no text, no extra characters.
+```
+
+AMERICAN SOLDIER
+**🪖 Prompt 1, Man, early twenties, wearing an olive drab wool tunic, canvas breeches, puttees, brown leather boots, and a steel Brodie helmet**
+✨ Look: a weary doughboy with a square jaw and determined eyes
+
+```text
+A full-body soft cinematic Pixar animation style character, designed as a man, in his early twenties, with smooth rounded shapes and subtle human facial features, soft smooth skin shading, fair skin with dirt smudges, short brown hair, square jaw, stubble, lean wiry build, and a charming, feature animation personality. The character has a human body with proportions similar to a modern feature animation film aesthetic. Wearing World War I American Expeditionary Forces clothing: olive drab wool tunic with high collar, canvas breeches, puttees wrapped around calves, brown leather boots, a steel Brodie helmet, a web belt with ammunition pouches, a small canvas message pouch on the belt, with optional coarse wool texture. The character has smooth surfaces with subtle imperfections, and a soft tactile finish. Pose: standing facing forward. Expression: grim determination, exhausted but alert. Front-facing or slightly angled character turnaround reference look. Isolated on a pure white background, warm studio lighting, soft shadow under feet, centered composition, highly detailed, polished feature animation character model, clean character design, no environment, no props, no text, no extra characters.
+```
+
+GERMAN SOLDIER
+**⚔️ Prompt 1, Man, mid-twenties, wearing a field gray wool tunic, gray trousers, black leather boots, and a Stahlhelm helmet**
+✨ Look: a sharp-eyed German soldier in field gray
+
+```text
+A full-body soft cinematic Pixar animation style character, designed as a man, in his mid-twenties, with smooth rounded shapes and subtle human facial features, soft smooth skin shading, fair skin, short dark hair, sharp cheekbones, narrow eyes, medium build, and a charming, feature animation personality. The character has a human body with proportions similar to a modern feature animation film aesthetic. Wearing World War I German Imperial Army clothing: field gray wool tunic with high collar, gray trousers, black leather boots, a coal-scuttle Stahlhelm helmet, a leather belt with ammunition pouches, a bread bag, with optional wool texture. The character has smooth surfaces with subtle imperfections, and a soft tactile finish. Pose: standing facing forward. Expression: wary, focused. Front-facing or slightly angled character turnaround reference look. Isolated on a pure white background, warm studio lighting, soft shadow under feet, centered composition, highly detailed, polished feature animation character model, clean character design, no environment, no props, no text, no extra characters.
+```
+
+SIGNAL OFFICER
+**🎧 Prompt 1, Woman, middle-aged, wearing an olive drab wool tunic, skirt, cotton stockings, brown leather shoes, and a garrison cap**
+✨ Look: a bespectacled signal officer with a headset
+
+```text
+A full-body soft cinematic Pixar animation style character, designed as a woman, in her middle age, with smooth rounded shapes and subtle human facial features, soft smooth skin shading, fair skin, short wavy dark hair pinned up, round face, spectacles, sturdy build, and a charming, feature animation personality. The character has a human body with proportions similar to a modern feature animation film aesthetic. Wearing World War I Signal Corps clothing: olive drab wool tunic with Signal Corps insignia, skirt, cotton stockings, brown leather shoes, a garrison cap, with a headset with a wire, and optional wool texture. The character has smooth surfaces with subtle imperfections, and a soft tactile finish. Pose: standing facing forward. Expression: attentive, concerned. Front-facing or slightly angled character turnaround reference look. Isolated on a pure white background, warm studio lighting, soft shadow under feet, centered composition, highly detailed, polished feature animation character model, clean character design, no environment, no props, no text, no extra characters.
+```
+
+ARMY VETERINARIAN
+**🩺 Prompt 1, Man, late thirties, wearing an olive drab wool tunic, canvas breeches, puttees, brown leather boots, and a peaked cap**
+✨ Look: a kind-eyed veterinarian with a bushy mustache
+
+```text
+A full-body soft cinematic Pixar animation style character, designed as a man, in his late thirties, with smooth rounded shapes and subtle human facial features, soft smooth skin shading, ruddy skin, short graying brown hair, bushy mustache, kind eyes, round face, stocky build, and a charming, feature animation personality. The character has a human body with proportions similar to a modern feature animation film aesthetic. Wearing World War I Veterinary Corps clothing: olive drab wool tunic with Veterinary Corps insignia, canvas breeches, puttees, brown leather boots, a peaked cap, with a small leather medical satchel, and optional wool texture. The character has smooth surfaces with subtle imperfections, and a soft tactile finish. Pose: standing facing forward. Expression: gentle, compassionate. Front-facing or slightly angled character turnaround reference look. Isolated on a pure white background, warm studio lighting, soft shadow under feet, centered composition, highly detailed, polished feature animation character model, clean character design, no environment, no props, no text, no extra characters.
+```

@@ -1,0 +1,49 @@
+SCENE 1
+Place [AMERICAN SOLDIER] troops crouched deep in a churned mud trench in the Argonne Forest with helmets low, while [GERMAN SOLDIER] figures line the ridge above and shells burst in the bare trees behind them.
+Keep the exact design from the uploaded references.
+Use flat overcast October light through wet mist, low wide angle from inside the trench looking up at the ridge.
+Rendered in clean cinematic stylized Pixar animation style, highly detailed.
+
+SCENE 2
+Place [AMERICAN SOLDIER] hands cupping [CHER AMI] the homing pigeon above a trench, a thin paper message rolled and tied to her leg.
+Keep the exact design from the uploaded references.
+Use dim overcast light with a soft rim from the open sky, medium close up from a low angle.
+Rendered in clean cinematic stylized Pixar animation style, highly detailed.
+
+SCENE 3
+Place [CHER AMI] the pigeon climbing through a sky full of shell smoke with a torn breast, one leg dangling by a tendon and one eye gone.
+Keep the exact design from the uploaded references.
+Use hard silver backlight through smoke, low angle tracking shot close on the bird.
+Rendered in clean cinematic stylized Pixar animation style, highly detailed.
+
+SCENE 4
+Place [SIGNAL OFFICER] lifting the message from the leg of [CHER AMI] at a headquarters table while [AMERICAN SOLDIER] survivors file out of the fog in the far distance.
+Keep the exact design from the uploaded references.
+Use warm lantern light inside against cold dawn outside, medium shot from a low three quarter angle.
+Rendered in clean cinematic stylized Pixar animation style, highly detailed.
+
+SCENE 5
+Place [ARMY VETERINARIAN] fitting a tiny wooden leg to [CHER AMI] on a clean table, a small medal resting beside her.
+Keep the exact design from the uploaded references.
+Use soft warm window light, close up at table height from slightly above.
+Rendered in clean cinematic stylized Pixar animation style, highly detailed.
+
+SCENE 6
+Place [CHER AMI] the pigeon high over a wide landscape of forest, fields and river, wings spread against a giant sky.
+Keep the exact design from the uploaded references.
+Use golden late light with long shadows below, extreme wide aerial shot.
+Rendered in clean cinematic stylized Pixar animation style, highly detailed.
+
+SCENE 7
+Place [CHER AMI] the pigeon perched alone on the edge of a wooden loft at first light, the wooden leg and the medal small against her.
+Keep the exact design from the uploaded references.
+Use cool blue dawn light with one warm first ray, medium close up from slightly below.
+Rendered in clean cinematic stylized Pixar animation style, highly detailed.
+
+---
+ANCHOR TAGS
+[CHER AMI] = @
+[AMERICAN SOLDIER] = @
+[GERMAN SOLDIER] = @
+[SIGNAL OFFICER] = @
+[ARMY VETERINARIAN] = @

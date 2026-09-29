@@ -1,0 +1,15 @@
+1. MASTER SHIPWRIGHT
+Dutch born master shipwright working a Swedish royal yard, about sixty. Ruddy weathered skin, deep lines at the eyes, grey stubble, broad shouldered with heavy forearms and callused hands. Wearing a coarse dark wool doublet, a linen shirt with an open collar, dark breeches, wool stockings, scuffed leather shoes, a leather apron with a rule and a set of dividers in the pocket. Carries a marking cord over the shoulder. Spends his day on the mould loft floor where the hull lines are laid out full size. Default expression: heavy patience.
+
+2. CROWN COMMISSIONER
+Crown commissioner overseeing the yard, about forty five. Fair skin, neatly trimmed moustache, precise posture, hands soft and unmarked in a way that names him the moment he appears beside the shipwrights. Wearing a dark high quality woollen doublet with a lined cape, an expensive hat, pale leather gloves, tall boots, a heavy signet ring, papers and a seal box carried by an attendant. Default expression: flat impatience.
+
+3. YARD LABOURER
+Stockholm yard hand on the ballast and the stowing, about twenty five. Weather beaten pale skin, sandy hair tied back, wiry build, rope burns on both palms. Wearing a torn flax shirt, a sleeveless leather jerkin, rough trousers cut above the ankle, bare feet in summer and wooden clogs in wet weather, a barrow hook at the belt. Carries ballast stones up a plank and hates every one of them. Default expression: set effort.
+
+4. VASA
+Royal warship, the Swedish hull of sixteen twenty eight. Two complete gun decks with the lower ports cut close to the waterline, sixty four guns, a high full stern with three tiers of carved and painted figures, an open beakhead forward, three masts with a square rig. Planking pale tarred oak, the hull sides streaked with tar and paint, the deck clutter of gun tackle and coiled rope, no legible lettering anywhere. Rides tender, low in the water, the lower ports barely clear of the surface. Built at the Stockholm yard and armed on royal order.
+
+5. HARBOUR SLOOP
+Small single masted working boat of the Stockholm harbour, about ten metres. Carvel planking, one loose footed sail, a deck of sorts, fishing gear and a coil of line aboard, tarred and patched throughout. The general-purpose working boat of the period and the natural vessel for the rescue beat. Default state: under sail close to the ship.
+

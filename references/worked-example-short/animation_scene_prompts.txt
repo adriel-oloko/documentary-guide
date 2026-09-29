@@ -1,0 +1,70 @@
+SCENE 1
+Scene: many @AMERICAN SOLDIER huddle in a flooded trench in the Argonne Forest at grey dawn, ringed above by @GERMAN SOLDIER, artillery flashing through the fog.
+Emotion: fear and exhaustion, eyes hollow and wide, jaws clenched, shoulders drawn tight.
+Action: shells walk closer along the trench line and the men press themselves into the mud as dirt rains down.
+Movement: @AMERICAN SOLDIER duck and flinch, one crawls along the trench wall toward the others, another peers over the lip then drops back.
+Background: distant shellfire pulses orange through the mist, branches snap and fall, water ripples in the trench bottom.
+Camera: wide low angle with a slow push in, focus on the trench line.
+Style: Soft pixar animation style, smooth surfaces, subtle imperfections, practical studio lighting, shallow depth of field, tactile animated film aesthetic.
+
+SCENE 2
+Scene: an @AMERICAN SOLDIER kneels in the trench at midday under heavy grey cloud and lifts @CHER AMI toward the open sky.
+Emotion: desperate hope, the soldier's face tight and pleading, the bird alert and calm.
+Action: the soldier ties the message to the leg of @CHER AMI and throws her upward out of the trench.
+Movement: @CHER AMI bursts from the hands with wings beating hard and climbing, while the soldier rises and follows her with his eyes.
+Background: smoke drifts across the trench, other @AMERICAN SOLDIER watch from below, distant shells thud in the trees.
+Camera: medium shot tilting up and following the bird, shallow focus on @CHER AMI.
+Style: Soft pixar animation style, smooth surfaces, subtle imperfections, practical studio lighting, shallow depth of field, tactile animated film aesthetic.
+
+SCENE 3
+Scene: @CHER AMI flies alone above the Argonne Forest at dusk through drifting smoke and falling debris.
+Emotion: grim endurance, the single eye fixed forward, wings strained and feathers battered.
+Action: a bullet clips @CHER AMI, she tumbles down, then beats her wings and climbs again.
+Movement: @CHER AMI drops, rights herself, and drives upward in long uneven strokes with her head turning toward the horizon.
+Background: tracer light streaks past, smoke columns rise, leaves and dirt swirl in the wind.
+Camera: tight tracking shot alongside the bird with slight handheld shake and shallow focus.
+Style: Soft pixar animation style, smooth surfaces, subtle imperfections, practical studio lighting, shallow depth of field, tactile animated film aesthetic.
+
+SCENE 4
+Scene: at dawn a @SIGNAL OFFICER takes the note from @CHER AMI inside a headquarters dugout as @AMERICAN SOLDIER walk free through the clearing mist.
+Emotion: relief and quiet grief, the officer's mouth open and eyes shining, the men weary but calm.
+Action: the shelling dies away and the survivors walk out of the trees as the officer unrolls the message.
+Movement: @SIGNAL OFFICER bends over the bird and straightens with the note, while @AMERICAN SOLDIER step forward one by one, some leaning on each other.
+Background: guns fall silent, last smoke drifts, the lantern flame steadies, boots squelch in the mud.
+Camera: medium two shot with a slow dolly in, focus shifting from @CHER AMI to the note.
+Style: Soft pixar animation style, smooth surfaces, subtle imperfections, practical studio lighting, shallow depth of field, tactile animated film aesthetic.
+
+SCENE 5
+Scene: in a quiet veterinary room in the late afternoon, @ARMY VETERINARIAN tends @CHER AMI while @AMERICAN SOLDIER stand at the door.
+Emotion: tenderness and reverence, the brow of the veterinarian soft and a small smile, the bird still and trusting.
+Action: @ARMY VETERINARIAN straps the wooden leg into place and sets the medal down beside @CHER AMI.
+Movement: @ARMY VETERINARIAN leans in and works with careful fingers, and @CHER AMI shifts her weight and tucks her head.
+Background: dust motes drift in the window light, a cage door stands open, the men at the door lower their hats.
+Camera: close up with a slow arc around the table, focus on the wooden leg.
+Style: Soft pixar animation style, smooth surfaces, subtle imperfections, practical studio lighting, shallow depth of field, tactile animated film aesthetic.
+
+SCENE 6
+Scene: @CHER AMI crosses open country at sunset with forty kilometers of forest and field beneath her.
+Emotion: pure resolve, the one eye steady, wings level and fully stretched.
+Action: @CHER AMI flies on without stopping as the landscape slides past under her.
+Movement: @CHER AMI holds a straight line with wings beating in a slow rhythm and head tilted toward the far horizon.
+Background: clouds drift, rivers gleam, treetops ripple in the wind beneath her flight path.
+Camera: extreme wide aerial shot drifting with the bird, deep focus on the landscape.
+Style: Soft pixar animation style, smooth surfaces, subtle imperfections, practical studio lighting, shallow depth of field, tactile animated film aesthetic.
+
+SCENE 7
+Scene: @CHER AMI sits on the loft rail in the early morning as the sky turns from grey to gold.
+Emotion: quiet certainty, the eye calm and open, feathers settling.
+Action: @CHER AMI settles her wings, looks out over the horizon and holds still.
+Movement: @CHER AMI turns her head once, then tucks the wing and balances carefully on the wooden leg.
+Background: mist lifts off the fields, a few birds cross the sky, the light slowly strengthens.
+Camera: medium close up with a very slow push in, shallow focus on @CHER AMI.
+Style: Soft pixar animation style, smooth surfaces, subtle imperfections, practical studio lighting, shallow depth of field, tactile animated film aesthetic.
+
+---
+ANCHOR TAGS
+[CHER AMI] = @
+[AMERICAN SOLDIER] = @
+[GERMAN SOLDIER] = @
+[SIGNAL OFFICER] = @
+[ARMY VETERINARIAN] = @

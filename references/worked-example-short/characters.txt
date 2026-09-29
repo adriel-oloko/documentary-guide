@@ -1,0 +1,14 @@
+1. CHER AMI
+Adult female homing pigeon. Iridescent gray and blue feathers with a white patch on the breast, missing right eye, a healed scar across the breast, sleek streamlined head with a small cere, slender body. Wearing a simple restraint: a thin leather collar with a small brass tag, no other clothing. Default expression: steady, unwavering.
+
+2. AMERICAN SOLDIER
+Adult male, early twenties. Fair skin with dirt smudges, short brown hair, square jaw, stubble, lean wiry build. Wearing era-accurate World War I American Expeditionary Forces uniform: olive drab wool tunic with high collar, canvas breeches, puttees wrapped around calves, brown leather boots, a steel Brodie helmet, a web belt with ammunition pouches, a small canvas message pouch on the belt. Permanent props: steel Brodie helmet, web belt with pouches. Default expression: grim determination, exhausted but alert.
+
+3. GERMAN SOLDIER
+Adult male, mid-twenties. Fair skin, short dark hair, sharp cheekbones, narrow eyes, medium build. Wearing era-accurate German Imperial Army uniform: field gray wool tunic with high collar, gray trousers, black leather boots, a coal-scuttle Stahlhelm helmet, a leather belt with ammunition pouches, a bread bag. Permanent props: Stahlhelm helmet, leather belt. Default expression: wary, focused.
+
+4. SIGNAL OFFICER
+Adult woman, middle-aged. Fair skin, short wavy dark hair pinned up, round face, spectacles, sturdy build. Wearing era-accurate World War I Signal Corps uniform: olive drab wool tunic with Signal Corps insignia, skirt, cotton stockings, brown leather shoes, a garrison cap. Permanent props: spectacles, a headset with a wire. Default expression: attentive, concerned.
+
+5. ARMY VETERINARIAN
+Adult male, late thirties. Ruddy skin, short graying brown hair, bushy mustache, kind eyes, round face, stocky build. Wearing era-accurate World War I Veterinary Corps uniform: olive drab wool tunic with Veterinary Corps insignia, canvas breeches, puttees, brown leather boots, a peaked cap. Permanent props: a small leather medical satchel. Default expression: gentle, compassionate.
